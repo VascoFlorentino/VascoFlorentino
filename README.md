@@ -1,4 +1,4 @@
 - Presenting @VascoFlorentino
 - interested in Sustainability Environment Climate Change Adaptation Landscape Architecture Ecological Resilience Ecosystem Services
 - currently learning Data Science Machine Learning Artificial Intelligence
-- looking to collaborate on environmental data science research
+- looking to collaborate on Environmental Data Science Research

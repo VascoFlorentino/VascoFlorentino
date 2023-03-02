@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/114393944/222590931-cebb7abd-d2e1-4dfe-b97a-fc00de183df2.png" />
+</p>
+
 - Presenting @VascoFlorentino
 - Interested in Landscape Environment Climate Change Adaptation Ecological Resilience Ecosystem Services Public Space
 - Currently learning Data Science Machine Learning Artificial Intelligence

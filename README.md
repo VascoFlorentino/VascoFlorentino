@@ -11,4 +11,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/e9e639aa-15df-4ef4-af22-3895495e4165.svg?style=for-the-badge)](https://wakatime.com/@e9e639aa-15df-4ef4-af22-3895495e4165) 
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<VascoFlorentino&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VascoFlorentino&layout=compact&langs_count=16&theme=chartreuse-dark"/>

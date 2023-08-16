@@ -9,6 +9,6 @@
 
 - Applying Machine Learning to Landscape Architecture
 
-[![wakatime](https://wakatime.com/badge/user/e9e639aa-15df-4ef4-af22-3895495e4165.svg?style=for-the-badge)](https://wakatime.com/@e9e639aa-15df-4ef4-af22-3895495e4165) 
+[![wakatime](https://wakatime.com/badge/user/e9e639aa-15df-4ef4-af22-3895495e4165.svg?style=for-the-badge)](https://wakatime.com/@e9e639aa-15df-4ef4-af22-3895495e4165) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVascoFlorentino&label=Visits&labelColor=%23d9e3f0&countColor=%23ba68c1&style=flat&labelStyle=lower)
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VascoFlorentino&layout=compact&langs_count=16&theme=chartreuse-dark"/>
